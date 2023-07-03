@@ -60,4 +60,4 @@ Please note that all contributions are subject to review and acceptance by the A
 
 ## Support
 
-If you encounter any issues, have questions, or need assistance while
+If you encounter any issues, have questions, or need assistance while, you can send me an email at: emekaezeobi@outlook.com or an IM on Linkedin: https://www.linkedin.com/in/dnexus08118
