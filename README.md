@@ -1,4 +1,4 @@
-# AgriTrade
+# AgriTrade - The Farmer's digital market place
 
 AgriTrade is an online platform that connects agricultural producers, suppliers, and buyers, facilitating the trade of agricultural products. Whether you are a farmer looking to sell your crops, a supplier seeking to distribute agricultural inputs, or a buyer interested in purchasing high-quality produce, AgriTrade provides a reliable and efficient marketplace to meet your needs.
 
